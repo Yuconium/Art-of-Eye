@@ -1,0 +1,286 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"vie",
+				"viewlist2"
+			],
+			[
+				"Vi",
+				"VIEWLIST"
+			],
+			[
+				"VIE",
+				"VIEWLIST"
+			],
+			[
+				"video",
+				"videotitle"
+			],
+			[
+				"vi",
+				"videoviews"
+			],
+			[
+				"v",
+				"videotitle"
+			],
+			[
+				"vide",
+				"videotitles"
+			],
+			[
+				"re",
+				"requests"
+			],
+			[
+				"url",
+				"urlentry"
+			],
+			[
+				"set",
+				"setbutton"
+			],
+			[
+				"datei",
+				"dateientry"
+			],
+			[
+				"te",
+				"textdatei"
+			],
+			[
+				"c",
+				"counter"
+			],
+			[
+				"Ein",
+				"EINMALLINKS"
+			],
+			[
+				"C",
+				"counter"
+			],
+			[
+				"text",
+				"text_messages"
+			],
+			[
+				"player",
+				"playerbullet_shot"
+			],
+			[
+				"De",
+				"death"
+			],
+			[
+				"scre",
+				"screen_width"
+			],
+			[
+				"all",
+				"all_functions"
+			],
+			[
+				"screen_",
+				"screen_width"
+			],
+			[
+				"add",
+				"add_vertenemy"
+			],
+			[
+				"screen",
+				"screen_width"
+			],
+			[
+				"K_",
+				"K_LEFT"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"exit()",
+			"python",
+			"python maze.py",
+			"python rauchenaufhörenhelfer.py"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ADMIN/Desktop/Spiele/Coding/Python/Hacking/sock.py",
+		"/C/Users/ADMIN/Desktop/Spiele/Coding/Python/Hacking/server.py",
+		"/C/Users/ADMIN/Desktop/Spiele/Coding/Python/matplot/plot.py",
+		"/C/Users/ADMIN/Desktop/Spiele/Coding/Python/matplot/attila_gruppe.py",
+		"/C/Users/ADMIN/Desktop/Spiele/Coding/Python/Albert/googlelinks.py",
+		"/C/Users/ADMIN/Documents/Schule Levis/Texte/Englisch/Nr 1",
+		"/C/Users/ADMIN/Desktop/Spiele/Coding/Python/Albert/googlesearch.py",
+		"/C/Users/ADMIN/Desktop/Spiele/Coding/Python/auffangen.py",
+		"/C/Users/ADMIN/Desktop/Spiele/Coding/Python/turtlegui.py",
+		"/C/Users/ADMIN/Desktop/Spiele/Coding/Python/tkin.py",
+		"/C/Users/ADMIN/Desktop/Spiele/Coding/Python/maze.py",
+		"/C/Users/ADMIN/Desktop/Spiele/Coding/Python/clickergame.py",
+		"/C/Users/ADMIN/Desktop/Spiele/Coding/Python/spiel.py",
+		"/C/Users/ADMIN/Desktop/Spiele/Coding/Python/d2.py",
+		"/C/Users/ADMIN/Desktop/Spiele/Coding/Python/space_invader.py",
+		"/C/Users/ADMIN/Desktop/Spiele/Coding/Python/matplot/linksgrabber.py",
+		"/C/Users/ADMIN/Desktop/Spiele/Coding/Python/Turtlegraphiken/zeichnen.py",
+		"/C/Users/ADMIN/Desktop/Spiele/Coding/Python/Turtlegraphiken/peace.py",
+		"/C/Users/ADMIN/Desktop/Spiele/Coding/Python/pong.py",
+		"/C/Users/ADMIN/Desktop/Spiele/Coding/Python/primzahlen.py",
+		"/C/Users/ADMIN/Desktop/Spiele/Coding/Python/fibonacci.py",
+		"/C/Users/ADMIN/Desktop/Spiele/Coding/Python/rauchaufhörerhelfer.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
